@@ -36,4 +36,4 @@ Náhledy projektů a kostka jsou kreslené v CSS, obrázky nepotřebují. Chybě
 2. Formulář: do `data-endpoint` vložit URL služby (Formspree, Netlify…). Prázdné = záložní odeslání přes mailto.
 3. Do `<head>` přidat favicon a `og:image`.
 4. Volitelně hostovat fonty lokálně (GDPR) místo Google Fonts.
-5. Barvy a rozestupy se mění v `:root` na začátku `styles.css`.
+5. Barvy a rozestupy se mění v `:root` na začátku `styles.css`
